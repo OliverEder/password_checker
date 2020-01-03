@@ -1,5 +1,5 @@
 # password_checker
-This is a tool that uses the API from https://haveibeenpwned.com/ to search in several data bases and find out how many times the password has been hacked.
+This is a Python tool that uses the API from https://haveibeenpwned.com/ to search in several data bases and find out how many times the password has been hacked.
 
 Password Hash
 
